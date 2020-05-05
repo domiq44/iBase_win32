@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<package name = "iBase" release = "1.4c1">
+  <product name = "foreign" url = "https://svn.imatix.com/imatix/foreign/trunk" revision = "12075" release = "1.2b0" />
+  <product name = "base1" url = "https://svn.imatix.com/imatix/base1/trunk" revision = "12075" release = "1.2e0" />
+  <product name = "gsl4" url = "https://svn.imatix.com/imatix/gsl4/trunk" revision = "12075" release = "4.0c19" />
+  <product name = "base2" url = "https://svn.imatix.com/imatix/base2/trunk" revision = "12075" release = "2.3" />
+</package>
